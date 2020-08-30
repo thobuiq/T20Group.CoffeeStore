@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T20Group.CoffeeStore", "T20Group.CoffeeStore\T20Group.CoffeeStore.csproj", "{354C6A7E-5072-458B-92B8-2D10DF95A254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T20Group.CoffeeStore.Tests", "T20Group.CoffeeStore.Tests\T20Group.CoffeeStore.Tests.csproj", "{5F4CAED9-C4BC-445C-97D1-D1CF512F5A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{354C6A7E-5072-458B-92B8-2D10DF95A254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354C6A7E-5072-458B-92B8-2D10DF95A254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354C6A7E-5072-458B-92B8-2D10DF95A254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354C6A7E-5072-458B-92B8-2D10DF95A254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4CAED9-C4BC-445C-97D1-D1CF512F5A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4CAED9-C4BC-445C-97D1-D1CF512F5A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4CAED9-C4BC-445C-97D1-D1CF512F5A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4CAED9-C4BC-445C-97D1-D1CF512F5A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5466B3A-B5F9-4BAF-B961-1C6BF5C8E375}
+	EndGlobalSection
+EndGlobal
